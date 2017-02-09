@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_dbc72a1eb4735991209bd0e4e3623906164ee3fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_f95d96501b06b2acc8c8de45d086741eb23b9210/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_016b115767138b06ee487e1da1f6794b96a69d1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_8228a7ae819700b5d8b4c397ad03ae7783b83534/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_f6d29697a52e091a9eae427b56c16e9067a10073/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_18eb5a338320e2923c858e58018e503e968663be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_4732d1bb2e8326ee34a67b4c0bd8e9041a4189b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82bfe245504db80cfe4c45972b7ea97b78c93f18">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2acdd3465fce95437c8ec5ebd4a62556e409d7e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b98b9f9b891071216d8bce993bda73b72b5d4311">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4fc0a85cc1aa7c3a512ef35dc553243389c36067/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_e04867872bece19477f093fcc952740d2ceed3e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_c20384c4eb74bc9de54f292d0a07f9463565e043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hasaxena/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/hasaxena/Documents/Demo_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_eca804d77baa69d7ad0cdc4189ffeaf8fef1f16e/classes.dex" />
+    </item>
+
+</items>
